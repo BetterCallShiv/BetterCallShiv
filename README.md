@@ -2,7 +2,7 @@
 
 # 🌟 Shivam Raj
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=The+only+true+wisdom+is+in+knowing+you+know+nothing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=50&lines=The+only+true+wisdom+is+in+knowing+you+know+nothing.)](https://git.io/typing-svg)
 
 ---
 
