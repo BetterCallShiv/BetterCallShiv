@@ -27,11 +27,11 @@
 # 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetterCallShiv&theme=dark&hide_border=false&border_color=39D353&include_all_commits=true&count_private=true&langs_count=10&layout=compact" width="700" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetterCallShiv&theme=dark&hide_border=false&border_color=39D353&include_all_commits=true&count_private=true&langs_count=10&layout=compact" width="500" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=bettercallshiv&show_icons=true&theme=dark&hide_border=false&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="700" />
+<img src="https://github-readme-stats.vercel.app/api?username=bettercallshiv&show_icons=true&theme=dark&hide_border=false&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="500" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BetterCallShiv&theme=github-dark&hide_border=false&border=39D353&date_format=j%20M%5B%20Y%5D" width="900" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BetterCallShiv&theme=github-dark&hide_border=false&border=39D353&date_format=j%20M%5B%20Y%5D" width="500" />
 </div>
 
 ---
