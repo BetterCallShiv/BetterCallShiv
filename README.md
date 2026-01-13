@@ -10,19 +10,11 @@
 # 📊 GitHub Stats
 
 <div align="center">
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bettercallshiv&layout=compact&theme=dark&langs_count=10&hide_border=false&border_color=39D353&title_color=39D353&text_color=C9D1D9"
-  width="600"
-/>
+<img src="https://bettercallshiv-github-readme-stats.vercel.app/api/top-langs/?username=BetterCallShiv&theme=dark&hide_border=false&border_color=39D353&include_all_commits=true&count_private=true&langs_count=10&layout=compact" width="600" />
 <br>
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=bettercallshiv&show_icons=true&theme=dark&hide_border=false&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=C9D1D9"
-  width="600"
-/>
+<img src="https://bettercallshiv-github-readme-stats.vercel.app/api?username=bettercallshiv&show_icons=true&theme=dark&hide_border=false&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&show=reviews" width="600" />
 <br>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=BetterCallShiv&theme=github-dark&hide_border=false&border=39D353&date_format=j%20M%5B%20Y%5D"
-  width="600" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BetterCallShiv&theme=github-dark&hide_border=false&border=39D353&date_format=j%20M%5B%20Y%5D" width="600" />
 </div>
 
 ---
