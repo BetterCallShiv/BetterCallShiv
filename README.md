@@ -18,6 +18,12 @@
 
 - [VolumeControl](https://github.com/BetterCallShiv/VolumeControl): Android application for managing device audio with a clean interface and modern Android development practices.
 
+### Bots & Automation
+
+- [Bingo Bot Telegram](https://github.com/BetterCallShiv/bingo-bot-telegram): A fun and interactive Telegram bot that brings the classic game of Bingo to Telegram.
+
+- [Index Media Crawler](https://github.com/BetterCallShiv/index-media-crawler): Generates m3u playlists by recursively crawling a Google Drive index.
+
 ### Developer Tools
 
 - [YTDL](https://github.com/BetterCallShiv/YTDL): A powerful media downloader built around yt-dlp with support for playlists, metadata, subtitles and customizable download workflows.
