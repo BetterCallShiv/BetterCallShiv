@@ -14,21 +14,21 @@
 
 ### Android
 
-- [Markd](https://github.com/BetterCallShiv/Markd): Smart attendance manager built for students with timetable organization, attendance tracking and productivity-focused features.
+- **[Markd](https://github.com/BetterCallShiv/Markd)**: Smart attendance manager built for students with timetable organization, attendance tracking and productivity-focused features.
 
-- [VolumeControl](https://github.com/BetterCallShiv/VolumeControl): Android application for managing device audio with a clean interface and modern Android development practices.
+- **[VolumeControl](https://github.com/BetterCallShiv/VolumeControl)**: Android application for managing device audio with a clean interface and modern Android development practices.
 
 ### Bots & Automation
 
-- [Bingo Bot Telegram](https://github.com/BetterCallShiv/bingo-bot-telegram): A fun and interactive Telegram bot that brings the classic game of Bingo to Telegram.
+- **[Bingo Bot Telegram](https://github.com/BetterCallShiv/bingo-bot-telegram)**: A fun and interactive Telegram bot that brings the classic game of Bingo to Telegram.
 
-- [Index Media Crawler](https://github.com/BetterCallShiv/index-media-crawler): Generates m3u playlists by recursively crawling a Google Drive index.
+- **[Index Media Crawler](https://github.com/BetterCallShiv/index-media-crawler)**: Generates m3u playlists by recursively crawling a Google Drive index.
 
 ### Developer Tools
 
-- [YTDL](https://github.com/BetterCallShiv/YTDL): A powerful media downloader built around yt-dlp with support for playlists, metadata, subtitles and customizable download workflows.
+- **[YTDL](https://github.com/BetterCallShiv/YTDL)**: A powerful media downloader built around yt-dlp with support for playlists, metadata, subtitles and customizable download workflows.
 
-- [Scripts](https://github.com/BetterCallShiv/Scripts): My collection of Python, Bash and Termux scripts used for Android development, automation and Linux productivity.
+- **[Scripts](https://github.com/BetterCallShiv/Scripts)**: My collection of Python, Bash and Termux scripts used for Android development, automation and Linux productivity.
 
 ---
 
