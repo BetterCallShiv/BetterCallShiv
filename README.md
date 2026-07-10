@@ -45,7 +45,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BetterCallShiv&theme=github-dark&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=39D353)
+![Activity Graph]([https://github-readme-activity-graph.vercel.app](https://bettercallshiv-github-readme-activity-graph.vercel.app/graph?username=BetterCallShiv&theme=github-dark&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=39D353)
 
 </div>
 
