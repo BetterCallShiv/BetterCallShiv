@@ -10,13 +10,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Major Projects
 
 ### Android
 
 - **[Markd](https://github.com/BetterCallShiv/Markd)**: Smart attendance manager built for students with timetable organization, attendance tracking and productivity-focused features.
 
-- **[VolumeControl](https://github.com/BetterCallShiv/VolumeControl)**: Android application for managing device audio with a clean interface and modern Android development practices.
+- **[BomBX](https://github.com/BetterCallShiv/BomBX)**: A powerful SMS, Call & WhatsApp bombing tool for educational and testing purposes.
 
 ### Bots & Automation
 
