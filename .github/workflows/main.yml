@@ -24,7 +24,7 @@ jobs:
           card: stats
           options: username=BetterCallShiv&show_icons=true&theme=dark&hide_border=false&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&show=reviews
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       # Generate Top Languages
       - name: Generate top languages card
@@ -33,9 +33,19 @@ jobs:
           card: top-langs
           options: username=BetterCallShiv&theme=dark&hide_border=false&border_color=39D353&include_all_commits=true&count_private=true&langs_count=10&layout=compact
           path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
-      # Push generated SVGs to output branch
+      # Generate Snake
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: BetterCallShiv
+          github_token: ${{ secrets.GH_STATS_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Push everything to output branch
       - name: Publish cards to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
