@@ -34,8 +34,8 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://bettercallshiv-github-readme-stats.vercel.app/api/top-langs/?username=BetterCallShiv&theme=dark&hide_border=false&border_color=39D353&include_all_commits=true&count_private=true&langs_count=10&layout=compact" width="600" />
-<img src="https://bettercallshiv-github-readme-stats.vercel.app/api?username=bettercallshiv&show_icons=true&theme=dark&hide_border=false&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&show=reviews" width="600" />
+<img src="https://raw.githubusercontent.com/BetterCallShiv/BetterCallShiv/output/top-langs.svg" width="600" />
+<img src="https://raw.githubusercontent.com/BetterCallShiv/BetterCallShiv/output/stats.svg" width="600" />
 <img src="https://streak-stats.demolab.com?user=BetterCallShiv&theme=github-dark&card_width=600" alt="GitHub Streak" />
 </div>
 
