@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Update README Cards & Snake
 
 on:
   schedule:
@@ -9,14 +9,24 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
+      # Generate GitHub Stats
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Generate Snake
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,8 +36,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      # Publish EVERYTHING in dist/ to output branch
+      - name: Publish generated files
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
