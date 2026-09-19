@@ -35,6 +35,14 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
+      # Generate Streak Stats
+      - name: Generate streak stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=BetterCallShiv&theme=dark&card_width=600&hide_border=false&border=39D353&stroke=39D353&disable_animations=true
+          path: dist/streak.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
       # Generate Snake
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
