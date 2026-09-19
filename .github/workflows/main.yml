@@ -39,7 +39,7 @@ jobs:
       - name: Generate streak stats
         uses: zients/github-readme-streak-stats@v2
         with:
-          options: user=BetterCallShiv&theme=dark&card_width=600&hide_border=false&border=39D353&stroke=39D353&disable_animations=true
+          options: user=BetterCallShiv&theme=dark&card_width=600&hide_border=false&border=39D353&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=C9D1D9&disable_animations=true
           path: dist/streak.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -61,3 +61,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
