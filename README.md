@@ -36,7 +36,7 @@
 
 <img src="https://raw.githubusercontent.com/BetterCallShiv/BetterCallShiv/output/top-langs.svg" width="600" />
 <img src="https://raw.githubusercontent.com/BetterCallShiv/BetterCallShiv/output/stats.svg" width="600" />
-<img src="https://streak-stats.demolab.com?user=BetterCallShiv&theme=github-dark&card_width=600" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/BetterCallShiv/BetterCallShiv/output/streak.svg" width="600" />
 
 
 ---
