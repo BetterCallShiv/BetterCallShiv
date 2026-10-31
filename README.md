@@ -30,6 +30,7 @@
 
 - **[Scripts](https://github.com/BetterCallShiv/Scripts)**: My collection of Python, Bash and Termux scripts used for Android development, automation and Linux productivity.
 
+- **[retro-rom-toolkit](https://github.com/BetterCallShiv/retro-rom-toolkit)**: Python toolkit for downloading, ranking and compressing retro games collections.
 ---
 
 ## 📊 GitHub Stats
